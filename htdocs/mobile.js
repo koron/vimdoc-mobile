@@ -3,6 +3,7 @@
 
   function on_mobileinit() {
     $.mobile.defaultPageTransition = 'none';
+    $.mobile.touchOverflowEnabled = true;
   }
 
 })();
