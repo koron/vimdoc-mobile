@@ -1,0 +1,8 @@
+div.vimdoc_body {
+    font-family: "Osaka-mono", "Osaka-等幅", "ＭＳ ゴシック", "Courier New", monospace;
+}
+
+.ui-link {
+    font-weight: normal !important;
+}
+/* vim:set ts=8 sts=4 sw=4 tw=0 et: */
