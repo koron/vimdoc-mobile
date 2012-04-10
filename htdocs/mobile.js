@@ -2,8 +2,7 @@
   $(document).bind('mobileinit', on_mobileinit);
 
   function on_mobileinit() {
-    //console.log('#on_mobileinit');
-    $.mobile.addBackBtn = true;
+    $.mobile.defaultPageTransition = 'none';
   }
 
 })();
