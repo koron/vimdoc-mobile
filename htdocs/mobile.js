@@ -2,7 +2,7 @@
   $(document).bind('mobileinit', on_mobileinit);
 
   function on_mobileinit() {
-    $.mobile.defaultPageTransition = 'slide';
+    //$.mobile.defaultPageTransition = 'flow';
     $.mobile.touchOverflowEnabled = true;
   }
 
